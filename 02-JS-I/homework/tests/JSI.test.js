@@ -35,8 +35,8 @@ const {
   esVocal,
 } = require('../homework.js');
 
-describe('nuevaString', function() {
-  it('Deberia ser un string', function() {
+describe('codigo', function() {
+  it('codigo', function() {
     expect(typeof nuevaString).toBe('string');
   });
 });
